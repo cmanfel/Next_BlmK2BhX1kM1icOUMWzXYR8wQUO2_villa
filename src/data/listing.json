@@ -1,1 +1,130 @@
-{"id":"villa","uid":"BlmK2BhX1kM1icOUMWzXYR8wQUO2","amentiesCategories":{"Services":["Luggage dropoff allowed","Long term stays allowed","Cleaning available during stay"],"Office amenities":["Wifi","Dedicated workspace"],"Heating and cooling amenities":["Heating","Ceiling fan","Air conditioning"],"Outdoor amenities":["Backyard","Outdoor furniture","Sun loungers","Patio or balcony","Beach essentials","BBQ grill"],"Kitchen amenities":["Blender","Freezer","Baking sheet","Barbecue utensils","Coffee","Coffee maker","Cooking basics","Hot water kettle","Dishwasher","Dishes and silverware","Dining table","Kitchen","Toaster","Stove","Refrigerator","Oven","Microwave","Wine glasses"],"Entertainment amenities":["TV"],"Family amenities":["Pack and play/Travel crib"],"Bedroom and laundry amenities":["Dryer","Clothing storage","Bed linens","Drying rack for clothing","Essentials","Hangers","Washer","Safe","Room-darkening shades","Mosquito net","Iron"],"Bathroom amenities":["Bathtub","Body soap","Hair dryer","Hot water","Hair conditioner","Cleaning products","Shower gel","Shampoo"],"Basic amenities":["Essentials","Dryer","Air conditioning","Heating","Hot water","Kitchen","TV","Wifi","Washer"],"Property category":["Tropical","Beach","Luxe","Design","Historical homes"],"Location amenities":["Laundromat nearby","Private entrance"],"Safety amenities":["First aid kit","Fire extinguisher","Carbon monoxide alarm","Smoke alarm"],"Parking and facilities":["Free parking on premises","Free street parking","Hot tub","Pool","Private living room","Single level home"]},"propertyType":"Entire Place","propertyCategories":[],"address":"2800 Northeast 16th Avenue, Wilton Manors, FL, USA","counters":{"beds":5,"guests":8,"bedrooms":3,"bathrooms":3},"createdAt":"2025-01-22T21:40:54.232Z","updatedAt":"2025-02-03T03:00:17.694Z"}
+{
+  "id": "villa",
+  "uid": "BlmK2BhX1kM1icOUMWzXYR8wQUO2",
+  "amentiesCategories": {
+    "Type of place": [
+      "An entire place."
+    ],
+    "Bedroom and laundry amenities": [
+      "Dryer",
+      "Clothing storage",
+      "Bed linens",
+      "Drying rack for clothing",
+      "Essentials",
+      "Hangers",
+      "Washer",
+      "Safe",
+      "Room-darkening shades",
+      "Mosquito net",
+      "Iron"
+    ],
+    "Entertainment amenities": [
+      "TV"
+    ],
+    "Outdoor amenities": [
+      "Backyard",
+      "Outdoor furniture",
+      "Sun loungers",
+      "Patio or balcony",
+      "Beach essentials",
+      "BBQ grill"
+    ],
+    "Parking and facilities": [
+      "Free parking on premises",
+      "Free street parking",
+      "Hot tub",
+      "Pool",
+      "Private living room",
+      "Single level home"
+    ],
+    "Family amenities": [
+      "Pack and play/Travel crib"
+    ],
+    "Heating and cooling amenities": [
+      "Heating",
+      "Ceiling fan",
+      "Air conditioning"
+    ],
+    "Kitchen amenities": [
+      "Blender",
+      "Freezer",
+      "Baking sheet",
+      "Barbecue utensils",
+      "Coffee",
+      "Coffee maker",
+      "Cooking basics",
+      "Hot water kettle",
+      "Dishwasher",
+      "Dishes and silverware",
+      "Dining table",
+      "Kitchen",
+      "Toaster",
+      "Stove",
+      "Refrigerator",
+      "Oven",
+      "Microwave",
+      "Wine glasses"
+    ],
+    "Office amenities": [
+      "Wifi",
+      "Dedicated workspace"
+    ],
+    "Services": [
+      "Luggage dropoff allowed",
+      "Long term stays allowed",
+      "Cleaning available during stay"
+    ],
+    "Safety amenities": [
+      "First aid kit",
+      "Fire extinguisher",
+      "Carbon monoxide alarm",
+      "Smoke alarm"
+    ],
+    "Property category": [
+      "Tropical",
+      "Beach",
+      "Luxe",
+      "Design",
+      "Historical homes",
+      "Islands",
+      "Lakefront",
+      "Amazing views"
+    ],
+    "Location amenities": [
+      "Laundromat nearby",
+      "Private entrance"
+    ],
+    "Basic amenities": [
+      "Essentials",
+      "Dryer",
+      "Air conditioning",
+      "Kitchen",
+      "TV",
+      "Wifi",
+      "Washer",
+      "Heating",
+      "Hot water"
+    ],
+    "Bathroom amenities": [
+      "Bathtub",
+      "Body soap",
+      "Hair dryer",
+      "Hot water",
+      "Hair conditioner",
+      "Cleaning products",
+      "Shower gel",
+      "Shampoo"
+    ]
+  },
+  "propertyType": "",
+  "propertyCategories": [],
+  "address": "2800 Northeast 16th Avenue, Wilton Manors, FL, USA",
+  "counters": {
+    "bathrooms": 3,
+    "guests": 8,
+    "beds": 5,
+    "bedrooms": 3
+  },
+  "createdAt": "2025-01-22T21:40:54.232Z",
+  "updatedAt": "2025-04-01T01:37:33.369Z"
+}
