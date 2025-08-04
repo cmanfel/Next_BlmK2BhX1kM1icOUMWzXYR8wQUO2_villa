@@ -1,1 +1,131 @@
-{"address":"2800 Northeast 16th Avenue, Wilton Manors, FL, USA","geoCode":{"lat":26.1625044,"lng":-80.1262402},"mapImageUrl":"https://storage.googleapis.com/hostrapp_public/BlmK2BhX1kM1icOUMWzXYR8wQUO2/villa/map.png","googleMapsUrl":"","nearbyCategories":[{"category":"Dining","place_type":"restaurant","description":"Wilton Manors offers a diverse culinary scene within walking distance. Enjoy upscale French cuisine at La Crepe Bistro (0.4 miles), savor authentic Italian flavors at Louie Bossi Ristorante (0.6 miles), or indulge in modern American fare at The Blue Moon (0.7 miles).","notable_places":["La Crepe Bistro","Louie Bossi Ristorante","The Blue Moon"],"image_prompt":"A photorealistic image of a charming outdoor patio at a restaurant in Wilton Manors, Florida, with fairy lights and lush greenery.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-mM4P98I7mgukdQjy7vvn6CS1.png?st=2025-02-02T18%3A26%3A35Z&se=2025-02-02T20%3A26%3A35Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A42%3A45Z&ske=2025-02-03T00%3A42%3A45Z&sks=b&skv=2024-08-04&sig=bEYHV/fTy3zM2AYOxViwoJmISXkf3eZ6NPaeJzMx6Wg%3D"},{"category":"Coffee","place_type":"cafe","description":"Start your day with a caffeine fix from local cafes like The Grind (0.3 miles), offering specialty coffee and pastries, or Crema Coffee & Tea (0.5 miles), known for its cozy atmosphere and unique blends.","notable_places":["The Grind","Crema Coffee & Tea"],"image_prompt":"A photorealistic image of a modern cafe in Wilton Manors, Florida, with exposed brick walls, comfortable seating, and a variety of coffee drinks on display.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-TOJQld49ZcUwttrLtPG6nCfZ.png?st=2025-02-02T18%3A26%3A47Z&se=2025-02-02T20%3A26%3A47Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A43%3A14Z&ske=2025-02-03T00%3A43%3A14Z&sks=b&skv=2024-08-04&sig=GAUF5PbNtruDgT5etgTSkbPPB%2Bbd2h9QsjaDV/zzslQ%3D"},{"category":"Attractions","place_type":"tourist_attraction","description":"Immerse yourself in the vibrant culture of Wilton Manors. Explore the Stonewall National Museum & Archives (0.8 miles), dedicated to LGBTQ+ history, or visit the scenic Colohatchee Park (0.9 miles), perfect for picnics and nature walks.","notable_places":["Stonewall National Museum & Archives","Colohatchee Park"],"image_prompt":"A photorealistic image of the Stonewall National Museum & Archives in Wilton Manors, Florida, with a rainbow flag prominently displayed.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-h9b3bKpQl7RXi0tJOUq8Hwoo.png?st=2025-02-02T18%3A27%3A05Z&se=2025-02-02T20%3A27%3A05Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A34%3A35Z&ske=2025-02-03T00%3A34%3A35Z&sks=b&skv=2024-08-04&sig=fGWOsgn9tFwOAnO/weVHPYoQWvk4jdaf90OZGgbGFsY%3D"},{"category":"Activities","place_type":"amusement_park","description":"Embark on thrilling adventures at Xtreme Action Park (1.1 miles), featuring go-karts, mini-golf, and laser tag. For a unique experience, visit the Escape Room Fort Lauderdale (1.2 miles) and test your problem-solving skills.","notable_places":["Xtreme Action Park","Escape Room Fort Lauderdale"],"image_prompt":"A photorealistic image of a group of people having fun at Xtreme Action Park in Wilton Manors, Florida, riding go-karts and playing mini-golf.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-UUfxW5YsMcTk8zJiPMS4tDdP.png?st=2025-02-02T18%3A27%3A19Z&se=2025-02-02T20%3A27%3A19Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A30%3A27Z&ske=2025-02-03T00%3A30%3A27Z&sks=b&skv=2024-08-04&sig=QPgutjqTO68yzW8mhi46xnRI3gNEmDunCtterRuv5i0%3D"},{"category":"Recreational","place_type":"park","description":"Relax and rejuvenate at Hugh Taylor Birch State Park (1.3 miles), offering stunning natural landscapes, hiking trails, and kayaking opportunities. For a more urban experience, visit Wilton Manors' Village Green (0.5 miles), ideal for leisurely strolls and people-watching.","notable_places":["Hugh Taylor Birch State Park","Wilton Manors' Village Green"],"image_prompt":"A photorealistic image of a couple enjoying a picnic at Hugh Taylor Birch State Park in Wilton Manors, Florida, with a view of the Intracoastal Waterway.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-PzVi25nJWGJcsXXRVp9s91wD.png?st=2025-02-02T18%3A27%3A33Z&se=2025-02-02T20%3A27%3A33Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T01%3A02%3A47Z&ske=2025-02-03T01%3A02%3A47Z&sks=b&skv=2024-08-04&sig=HHMPyAhgmbL/c4YfvloVn9pOOe8kHaxodstiWtdo7EY%3D"},{"category":"Shopping","place_type":"shopping_mall","description":"Treat yourself to a shopping spree at The Galleria at Fort Lauderdale (1.5 miles), a renowned mall with high-end boutiques and department stores. For unique finds and local crafts, explore the Wilton Manors Antique Market (0.7 miles).","notable_places":["The Galleria at Fort Lauderdale","Wilton Manors Antique Market"],"image_prompt":"A photorealistic image of the interior of The Galleria at Fort Lauderdale, Florida, showcasing luxury brands and a stylish atmosphere.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-8yCN5E2jmvVUjIQWk2DOXn6z.png?st=2025-02-02T18%3A27%3A44Z&se=2025-02-02T20%3A27%3A44Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A31%3A06Z&ske=2025-02-03T00%3A31%3A06Z&sks=b&skv=2024-08-04&sig=dhAKeQm8m1iYIeVLOhpSOf%2BiERkokPGThzeE%2BjsEc98%3D"},{"category":"Convenience","place_type":"grocery_or_supermarket","description":"Stock up on essentials and groceries at Publix Super Market (0.4 miles), conveniently located within walking distance. For a wider selection, visit Whole Foods Market (1.0 miles).","notable_places":["Publix Super Market","Whole Foods Market"],"image_prompt":"A photorealistic image of a well-stocked grocery store in Wilton Manors, Florida, with fresh produce, a variety of packaged goods, and friendly staff.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-e23q54e5awvaWgzct2Gjk6xk.png?st=2025-02-02T18%3A27%3A57Z&se=2025-02-02T20%3A27%3A57Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A42%3A08Z&ske=2025-02-03T00%3A42%3A08Z&sks=b&skv=2024-08-04&sig=BxHUSvf%2Balv43y2PVGZaKTktqeyveY/uaeylUMMaOfM%3D"},{"category":"Transportation Hubs","place_type":"airport","description":"Fort Lauderdale-Hollywood International Airport (FLL) is situated approximately 8 miles away, offering convenient domestic and international flights. For train services, the nearest station is Fort Lauderdale Amtrak Station (11 miles away).","notable_places":["Fort Lauderdale-Hollywood International Airport (FLL)","Fort Lauderdale Amtrak Station"],"image_prompt":"A photorealistic image of the Fort Lauderdale-Hollywood International Airport (FLL) terminal, with airplanes taking off and landing.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-1wQyiRMfKUokZgvuloOE6ulR.png?st=2025-02-02T18%3A28%3A12Z&se=2025-02-02T20%3A28%3A12Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A26%3A48Z&ske=2025-02-03T00%3A26%3A48Z&sks=b&skv=2024-08-04&sig=34t3/jPW8jdjuU0LifrfMTRvv2vC6gcSBYcof2Sg9pc%3D"},{"category":"Other Services","place_type":"spa","description":"Indulge in pampering treatments at The Spa at The Westin Fort Lauderdale (1.4 miles), offering a range of massages, facials, and body treatments. For a more holistic approach, visit The Yoga Studio of Wilton Manors (0.6 miles), providing yoga classes and meditation sessions.","notable_places":["The Spa at The Westin Fort Lauderdale","The Yoga Studio of Wilton Manors"],"image_prompt":"A photorealistic image of a luxurious spa treatment room at The Spa at The Westin Fort Lauderdale, Florida, with candles, soft lighting, and a serene atmosphere.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-RL7aE2eEJuwXgc3d04ALH1fu.png?st=2025-02-02T18%3A28%3A26Z&se=2025-02-02T20%3A28%3A26Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A41%3A45Z&ske=2025-02-03T00%3A41%3A45Z&sks=b&skv=2024-08-04&sig=jXKbRvgbEubhZWfp72NQR%2BWVoImo8RFkOkKzdcfWqUM%3D"}]}
+{
+  "address": "2800 Northeast 16th Avenue, Wilton Manors, FL, USA",
+  "geoCode": {
+    "lat": 26.1625123,
+    "lng": -80.1262419
+  },
+  "mapImageUrl": "https://storage.googleapis.com/hostrapp_public/BlmK2BhX1kM1icOUMWzXYR8wQUO2/villa/map.png",
+  "googleMapsUrl": "",
+  "nearbyCategories": [
+    {
+      "category": "Delicious Dining Options for Every Taste",
+      "place_type": "restaurant",
+      "description": "Enjoy diverse cuisine within a short walk or drive (5-15 minutes). Options range from casual eateries to fine dining, like 'Rosie's Bar and Grill' and 'Yanou Creole Restaurant'.",
+      "notable_places": [
+        "Rosie's Bar and Grill",
+        "Yanou Creole Restaurant",
+        "Courtyard Cafe"
+      ],
+      "image_prompt": "Photorealistic image of the outdoor seating area of a vibrant restaurant in Wilton Manors, Florida at sunset. Tables are set with colorful linens, and patrons are enjoying their meals under the warm glow of string lights. Include lush tropical plants in the background.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-mvQpZVdaKhcicAnChBQtAV0H.png?st=2025-06-13T13%3A38%3A51Z&se=2025-06-13T15%3A38%3A51Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-13T04%3A17%3A09Z&ske=2025-06-14T04%3A17%3A09Z&sks=b&skv=2024-08-04&sig=VcNFs4DswiW8P/YF6KpTUL4qOKviH3%2B1YueUVB3r4lQ%3D"
+    },
+    {
+      "category": "Local Coffee Shops and Cafes for Morning Brews",
+      "place_type": "cafe",
+      "description": "Start your day with a great cup of coffee at a nearby cafe, within a 5-10 minute drive. Try 'Java Boys' or explore other local favorites.",
+      "notable_places": [
+        "Java Boys",
+        "Starbucks",
+        "Warsaw Coffee Company"
+      ],
+      "image_prompt": "Photorealistic image of the interior of a cozy coffee shop in Wilton Manors, Florida. A barista is preparing a latte, and customers are seated at tables, working on laptops or chatting. Sunlight streams through the windows, highlighting the warm and inviting atmosphere.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-ATkGhEOj1nNuy4Bj5VTXb0I0.png?st=2025-06-13T13%3A39%3A05Z&se=2025-06-13T15%3A39%3A05Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-12T18%3A15%3A08Z&ske=2025-06-13T18%3A15%3A08Z&sks=b&skv=2024-08-04&sig=4i/Um5yq0k9tgNFN24GJzLgOHIwPhK9zcxvHxmF%2Beq4%3D"
+    },
+    {
+      "category": "Popular Tourist Attractions and Landmarks",
+      "place_type": "tourist_attraction",
+      "description": "Discover local attractions like 'Bonnet House Museum & Gardens' (15-20 minute drive) or enjoy the beautiful beaches a short distance away.",
+      "notable_places": [
+        "Bonnet House Museum & Gardens",
+        "Fort Lauderdale Beach",
+        "Hugh Taylor Birch State Park"
+      ],
+      "image_prompt": "Photorealistic image of Bonnet House Museum & Gardens in Fort Lauderdale, Florida. Focus on the vibrant colors of the architecture and the lush tropical gardens surrounding the building. Include people strolling through the gardens and admiring the scenery.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-kIQymk4DoANZdAohskYO0rzQ.png?st=2025-06-13T13%3A39%3A16Z&se=2025-06-13T15%3A39%3A16Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-13T11%3A16%3A37Z&ske=2025-06-14T11%3A16%3A37Z&sks=b&skv=2024-08-04&sig=eeJCJ6Vb/h%2BTQORNdkQMM8AjrPa3isDwCj8gCIJPDjk%3D"
+    },
+    {
+      "category": "Recreational Activities and Outdoor Adventures",
+      "place_type": "park",
+      "description": "Engage in outdoor activities with parks and beaches just a short drive away (10-20 minutes). Enjoy the sun and sand at 'Fort Lauderdale Beach'.",
+      "notable_places": [
+        "Fort Lauderdale Beach",
+        "Hugh Taylor Birch State Park",
+        "Holiday Park"
+      ],
+      "image_prompt": "Photorealistic image of Fort Lauderdale Beach on a sunny day. Focus on the turquoise water, white sand, and palm trees lining the shore. Include people swimming, sunbathing, and playing in the sand.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-jBHa2cmUwcC0SB5MAvX9RovC.png?st=2025-06-13T13%3A39%3A34Z&se=2025-06-13T15%3A39%3A34Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-13T06%3A57%3A58Z&ske=2025-06-14T06%3A57%3A58Z&sks=b&skv=2024-08-04&sig=goodN8f6y05kIJXk5GA1ubX8U3/Nk2MB/%2BhaL6bpaeA%3D"
+    },
+    {
+      "category": "Shopping Centers and Retail Destinations",
+      "place_type": "shopping_mall",
+      "description": "Find great shopping options a short drive away (10-20 minutes) at malls and local boutiques. Explore 'The Galleria at Fort Lauderdale'.",
+      "notable_places": [
+        "The Galleria at Fort Lauderdale",
+        "Coral Ridge Mall",
+        "Wilton Drive Shops"
+      ],
+      "image_prompt": "Photorealistic image of the interior of The Galleria at Fort Lauderdale, a large shopping mall. Focus on the bright, modern architecture and the variety of shops and restaurants. Include shoppers browsing and enjoying the atmosphere.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-n9h41IkLHGFSQD1TargUQGgQ.png?st=2025-06-13T13%3A39%3A56Z&se=2025-06-13T15%3A39%3A56Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-13T14%3A39%3A56Z&ske=2025-06-14T14%3A39%3A56Z&sks=b&skv=2024-08-04&sig=GdrPjSinowCYqgzF%2BG/lniVobhY88q1UEbRerKv/uO4%3D"
+    },
+    {
+      "category": "Convenient Grocery and Essential Stores",
+      "place_type": "grocery_or_supermarket",
+      "description": "Easily access groceries and essentials at nearby stores within a 5-10 minute drive, such as 'Publix Super Market' or 'Winn-Dixie'.",
+      "notable_places": [
+        "Publix Super Market",
+        "Winn-Dixie",
+        "Trader Joe's"
+      ],
+      "image_prompt": "Photorealistic image of the exterior of a Publix Super Market in Wilton Manors, Florida. Focus on the clean, well-maintained building and the busy parking lot. Include shoppers entering and exiting the store with groceries.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-byMtT8NIZdTAai0hstWr4uUl.png?st=2025-06-13T13%3A40%3A12Z&se=2025-06-13T15%3A40%3A12Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-13T14%3A40%3A12Z&ske=2025-06-14T14%3A40%3A12Z&sks=b&skv=2024-08-04&sig=gmW5hM7/vQp8NQRVHlK%2BLU4hmGprwzXTR9yGXSq2ejM%3D"
+    },
+    {
+      "category": "Easy Access Transportation and Car Rentals",
+      "place_type": "car_rental",
+      "description": "Convenient access to transportation options, including car rentals and Fort Lauderdale-Hollywood International Airport (a 20-30 minute drive).",
+      "notable_places": [
+        "Enterprise Rent-A-Car",
+        "Fort Lauderdale-Hollywood International Airport (FLL)",
+        "Uber/Lyft"
+      ],
+      "image_prompt": "Photorealistic image of a car rental agency in Fort Lauderdale, Florida. Focus on a selection of rental cars parked in front of the building. Include signage for the rental company and customers interacting with staff.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-M3SRbwuukiXyy2vQK5NP9bm4.png?st=2025-06-13T13%3A40%3A27Z&se=2025-06-13T15%3A40%3A27Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-13T09%3A53%3A31Z&ske=2025-06-14T09%3A53%3A31Z&sks=b&skv=2024-08-04&sig=UwHO%2BMVzmyGowxiHSzio113EsuUMEyGUZ53ZjMcS4xg%3D"
+    },
+    {
+      "category": "Pharmacies and Healthcare Services",
+      "place_type": "pharmacy",
+      "description": "Access to pharmacies and healthcare services for peace of mind during your stay; located within a 5-10 minute drive, options like 'Walgreens' are readily available.",
+      "notable_places": [
+        "Walgreens",
+        "CVS Pharmacy",
+        "Imperial Point Medical Center"
+      ],
+      "image_prompt": "Photorealistic image of the exterior of a Walgreens pharmacy in Wilton Manors, Florida. Focus on the brightly lit store and the busy parking lot. Include customers entering and exiting the store.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-84dXJeikm9lJFYxkLeGEh6FF.png?st=2025-06-13T13%3A40%3A39Z&se=2025-06-13T15%3A40%3A39Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-13T14%3A40%3A39Z&ske=2025-06-14T14%3A40%3A39Z&sks=b&skv=2024-08-04&sig=8bOGvWFJL2FdsVRVPv2wXC4XXhcwkhQOn/hspKyDbL4%3D"
+    },
+    {
+      "category": "Pet-Friendly Services and Supplies",
+      "place_type": "pet_store",
+      "description": "For guests traveling with pets, find nearby pet stores and services like 'PetSmart' a short drive away (10-15 minutes).",
+      "notable_places": [
+        "PetSmart",
+        "Woof Gang Bakery & Grooming Fort Lauderdale",
+        "VCA Imperial Point Animal Hospital"
+      ],
+      "image_prompt": "Photorealistic image of the interior of a PetSmart store in Fort Lauderdale, Florida. Focus on the variety of pet supplies and the friendly staff assisting customers. Include pets interacting with their owners in the store.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-ft43rifzKTlHTGN8BSr8zAsP.png?st=2025-06-13T13%3A40%3A55Z&se=2025-06-13T15%3A40%3A55Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-12T20%3A14%3A33Z&ske=2025-06-13T20%3A14%3A33Z&sks=b&skv=2024-08-04&sig=dKyRosS1YONdYc4B2tZ7GvtW91ma6ZZZ/37itp3WxKo%3D"
+    },
+    {
+      "category": "Unique Local Boutiques and Specialty Shops",
+      "place_type": "store",
+      "description": "Explore unique boutiques and specialty shops on Wilton Drive, offering clothing, gifts, and souvenirs within walking distance.",
+      "notable_places": [
+        "Out of the Closet",
+        "Hunters Nightclub",
+        "The Eagle Wilton Manors"
+      ],
+      "image_prompt": "Photorealistic image of a row of colorful storefronts along Wilton Drive in Wilton Manors, Florida. Focus on the vibrant atmosphere and the unique character of each shop. Include pedestrians strolling along the street and window shopping.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-RA5ExRVRLyiGLWfFn6pacJ1p.png?st=2025-06-13T13%3A41%3A14Z&se=2025-06-13T15%3A41%3A14Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-13T14%3A41%3A14Z&ske=2025-06-14T14%3A41%3A14Z&sks=b&skv=2024-08-04&sig=hRyRR19b02ETsryh/ub5/XVlskkJ/731rjMnEqWIbwA%3D"
+    }
+  ]
+}
